@@ -15,3 +15,4 @@
 
 ### Reach me on
 - [Instagram](https://www.instagram.com/michaelfidef/)
+- [Linkedln](https://www.linkedin.com/in/michael-fidef-8b4918285)
