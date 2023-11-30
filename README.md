@@ -1,14 +1,12 @@
-### Hi there 👋
+### Hi My name Michael Fidef 👋
 
 - 🌱 I’m currently learning in [Universitas Kristen Duta Wacana](https://www.ukdw.ac.id/) and [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=mobile-development) 
 - 🤔 I am a Junior developer || Mobile Development
-- ⚡ Fun fact: I love traveling, badminton, vollyball, and swim
 
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/VitoKa29">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=michaelfidef&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/micahelfidef">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=michaelfidef&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
