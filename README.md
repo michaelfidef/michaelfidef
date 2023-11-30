@@ -1,4 +1,4 @@
-### Hi My name Michael Fidef 👋
+### Hello 👋
 
 - 🌱 I’m currently learning in [Universitas Kristen Duta Wacana](https://www.ukdw.ac.id/) and [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=mobile-development) 
 - 🤔 I am a Junior developer || Mobile Development
